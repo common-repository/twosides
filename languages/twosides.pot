@@ -1,0 +1,519 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TwoSides\n"
+"POT-Creation-Date: 2023-04-13 11:39-0700\n"
+"PO-Revision-Date: 2018-06-27 09:46-0700\n"
+"Last-Translator: \n"
+"Language-Team: Tradesouthwest <support@tradesouthwest.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/twosides-debate-admin-forms.php:17
+msgid "Select color for background of positive comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:39
+msgid "Select color for background of negative comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:60
+msgid "Select color for borders of positive comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:81
+msgid "Select color for borders of negative comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:102
+msgid "Select pro/con buttons text color."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:122
+#: includes/twosides-debate-admin-forms.php:139
+#: includes/twosides-debate-admin-forms.php:156
+#: includes/twosides-debate-admin-forms.php:173
+msgid "Set text field."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:125
+msgid "Add text above buttons, using option: Content Above Buttons"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:196
+msgid "Check to reverse the order of comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:198
+msgid ""
+"Some themes may not honor the order you set in Settings > Discussion > "
+"display with older/newer at top of page."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:219
+msgid "Check to hide the metadata for comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:221
+msgid "Date, time and other data which shows below author."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:242
+msgid "Check to not show counters."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:244
+msgid "The counter and progress bar above the submit buttons."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:266
+#: includes/twosides-debate-admin-forms.php:289
+msgid "Check to use "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:266
+#: includes/twosides-debate-admin-forms.php:289
+msgid "Theme"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:267
+msgid " comments list"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:268
+msgid ""
+"Use if for some reason you want to change back to a single list of "
+"comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:269
+msgid "Comments can still be styled by adding commentmetadata."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:290
+msgid " comment form"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:291
+msgid "Use if for some reason the Comments form is not working properly."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:292
+msgid ""
+"Documentation must be read to use your theme form. Installing code "
+"snippet is required."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:312
+msgid "Check to use debug mode."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:313
+msgid ""
+"Use if for testing of which comment list is being displayed - theme or "
+"plugin. Also resolves buffering issues."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:333
+msgid "Check to remove the url field from comments form."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:334
+#: includes/twosides-debate-admin-forms.php:355
+msgid "Optional"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:354
+msgid "Check to remove the says wording next to avatar."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:369
+msgid "Set height in pixels."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:372
+msgid "Adjust this height to make avatars fit inside of comment top bar."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:386
+msgid "Set padding."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:390
+msgid ""
+"Setting is in pixels. Controls all twosides-debate comment boxes "
+"padding."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:405
+msgid "Set width."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:409
+msgid "Set the MAXIMUM width, in pixels, of the entire comments section."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:424
+msgid "Set spacing."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:428
+msgid "Setting is in pixels. Controls all twosides-debate comment lists."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:443
+#: includes/twosides-debate-admin-forms.php:460
+msgid "Add styles"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:445
+msgid ""
+"Add HTML or plain text to above the buttons and counters section. Try: "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:462
+msgid "Add styles directly related to TwoSides plugin."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:463
+msgid "Try: "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:481
+msgid "Full Plugin Documentation: "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:483
+msgid "Online Documentation and Instructions"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:485
+msgid "Basic Information: "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:486
+msgid ""
+"To remove twosides comments you should deactivate this plugin. This "
+"will keep twosides comment settings in the database for later use. Yet "
+"there is also an option to use the Theme comment form if you want to "
+"display the comments in a single long vertical list of one column, not "
+"two columns. Just tic the Option \" Check to use Theme comments list\" "
+"in TwoSides Debate Settings."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:487
+msgid ""
+"If you do delete this plugin, TwoSides Comments are saved as WP "
+"comments and are not custom comments. So any twosided comments will "
+"stay in db as regular comments."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:489
+msgid "Very Important - Please Read!"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:490
+msgid ""
+"TwoSides plugin MAY REQUIRE you to replace your comments.php file "
+"inside a child-theme (or parent theme)!"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:491
+msgid ""
+"To add theme templates to a child theme follow the instructions below."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:494
+msgid "The process to follow is ONLY to be done if you have checked the "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:494
+msgid " Use Theme Comments List Template option."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:495
+msgid ""
+"If you do not use YOUR theme&#39;s comments list then TwoSides "
+"automatically adds one."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:498
+msgid ""
+"Create Child Theme. For further instructions on building a child-theme "
+"view: "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:501
+msgid "You should now have a child-theme folder to add files to."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:502
+msgid ""
+"Get the comments.php file from your Parent Theme and save it in the "
+"Child Theme"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:503
+msgid ""
+"Now highlight and copy the code---from the link below---that is to go "
+"inside of the new comments.php file and paste that copied code into "
+"your comments.php file of the Child Theme."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:507
+msgid ""
+"View: TwoSides plugin MAY REQUIRE you to replace your comments.php "
+"file inside a child-theme"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:510
+msgid "Setting Up Plugin Tips"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:512
+msgid "Twosides Shortcodes"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:513
+msgid ""
+"Shortcode to display TwoSides header (buttons and counters) for the "
+"single posts pages are automatic and there is a shortcode but it is "
+"embedded into the functions of the single page instance. So you may "
+"not ever use this one unless you are building custom comment templates."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:515
+msgid ""
+"Shortcode to show a page of comments by comment author. You must add "
+"author id of the commentor to end of shortcode."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:518
+msgid "Spacing and gaps between comment boxes"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:519
+msgid ""
+"When you set the option for Spacing between comments, you will be "
+"creating a gap between the comment boxes. The method used is to set "
+"the left and right boxes up using a border attribute of how many pixel "
+"wide the border is. And then the margin for the bottom of every box "
+"(left and right) is determined by using the same number and "
+"multiplying it by two. For example: If you enter 3 as your spacing - "
+"what you have is 3 pixels right and 3 pixels left border for each "
+"right and left box. Then 3 X 2= 6 pixels width for bottom margin of "
+"all boxes. "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:521
+msgid "To Override Button Styles"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:522
+msgid ""
+"Use the following CSS selector to change how your submit buttons will "
+"appear on the page"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:527
+msgid "How to find comment Author id"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:531
+msgid "Frequently Asked Questions | Troubleshooting"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:533
+msgid "Comment list columns are not sitting side-by-side"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:534
+msgid ""
+"Try setting the margin-left to a lower number. This can be done using "
+"Add Styles box or Customizer. Selector: "
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:538
+msgid "Excessive space at bottom of comment."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:539
+msgid "Try adding CSS to the Additional CSS of this plugin."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:543
+msgid "Why do the comment reply links not show on individual comments?"
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:544
+msgid ""
+"TwoSides was not designed to support replies to authored comments. "
+"Comment threads will not work because we did not add any scripts to "
+"allow each lower level reply the ability to know what type of comment "
+"meta each comment has. Without the comment meta (`twosides_positive` "
+"or `twosides_negative`) there is no way for a reply to know which "
+"comment it shows on. \n"
+"    We also did not design this plugin to be used as a Discussion "
+"plugin, so much as it is designed to add singular responses to the "
+"post, not discussion threads."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:548
+msgid "Comments are not displayed in the correct order."
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:549
+msgid ""
+"You can change the order under Settings > Discussion > Other Comments "
+"Settings. Some themes will behave just the opposite of what you set "
+"this for. So try either setting for \"Comments should be displayed "
+"with the older/newer comments at the top of the page.\""
+msgstr ""
+
+#: includes/twosides-debate-admin-forms.php:552
+#: includes/twosides-debate-admin-forms.php:553
+msgid "Other"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:23
+msgid "Twosides Debate Settings"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:24
+msgid "TwoSides Debate"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:53
+msgid "Background color for Positive comments"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:60
+msgid "Background color for Negative comments"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:67
+msgid "Border color for Positive comments"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:74
+msgid "Border color for Negative comments"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:81
+msgid "Color of Submit Buttons Text"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:88
+msgid "Header for Positive side"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:95
+msgid "Header for Negative side"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:102
+msgid "Button text for Positive submit"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:109
+msgid "Button text for Negative submit"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:116
+msgid "Show/Hide Two Sides Counter"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:123
+msgid "Remove Webiste field"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:130
+msgid "Show/Hide Comments Meta"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:137
+msgid "Remove says wording"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:144
+msgid "Height of Avatar in Comments"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:151
+msgid "Padding in comments boxes"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:158
+msgid "Width of comment area"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:165
+msgid "Content Above Buttons"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:172
+msgid "Additional CSS"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:179
+msgid "Use Theme Template for Listing Comments"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:186
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:198
+msgid "Twosides Documentation and Help"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:205
+msgid "Information"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:218
+msgid " Set colors and options"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:226
+msgid " Instructions and Tips"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:230
+msgid "This plugin last activated on: "
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:256
+msgid "Options"
+msgstr ""
+
+#: includes/twosides-debate-admin-settings.php:260
+msgid "Twosides Documentation"
+msgstr ""
+
+#: includes/twosides-debate-functions.php:258
+msgid "Viewing comments template from TwoSides plugin."
+msgstr ""
+
+#: includes/twosides-debate-helpers.php:23
+msgid "Twosides Data"
+msgstr ""
+
+#: includes/twosides-debate-helpers.php:47
+msgid "Comment Classification:"
+msgstr ""
+
+#: templates/comments.php:94
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: templates/comments.php:95
+msgid "Newer Comments &rarr;"
+msgstr ""
